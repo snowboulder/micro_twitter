@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  follower: lelouch
+  followed: charles
+
+two:
+  follower: lelouch
+  followed: malory
+
+three:
+  follower: charles
+  followed: lelouch
+
+four:
+  follower: suzaku
+  followed: lelouch
